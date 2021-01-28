@@ -24,7 +24,7 @@ Partimos para linguagem de programação que não temos comodidade de uso no dia
 
 
 #### Aplicabilidade
-Projeto possui **machine learning**, então ele mesmo irá aprender com o comportamento dos chamados e alarmes. Projeto foi moldado para a própria inteligencia maquina aprender e solucionar os problemas.
+Projeto possui **machine learning**, então ele mesmo irá aprender com o comportamento dos chamados e alarmes. Projeto foi moldado para a própria inteligencia da maquina aprender e solucionar os problemas.
 
 #### Qualidade do protótipo
 Incluimos **Testes unitários** no projeto e foi utilizado mocks para realizar teste de várias entradas de dados, para entendermos tambem o comportamento do machine learning.
