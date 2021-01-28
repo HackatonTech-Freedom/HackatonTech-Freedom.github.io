@@ -21,7 +21,7 @@ Freedom ficará analisando o zabbix de tempos em tempos. Ao receber uma avalanch
  - Luiz Ihara
 
 #### Criatividade e originalidade
-Partimos para linguagem de programação que não temos comodidade de uso no dia a dia. Utilizamos as melhores práticas do que já conhecemos de outras linguagens e a do própria python. Partimos para o uso de containers porque acreditamos que será para melhor prática.
+Partimos para linguagem de programação que não temos comodidade de uso no dia a dia. Utilizamos as melhores práticas do que já conhecemos de outras linguagens e a do própria python. Partimos para o uso de containers porque acreditamos que será para melhor prática em infraestrutura.
 
 
 #### Aplicabilidade
