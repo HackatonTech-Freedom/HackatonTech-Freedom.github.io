@@ -15,6 +15,7 @@ Freedom ficará analisando o zabbix de tempos em tempos. Ao receber uma avalanch
 
  - Guilherme Oliveira
  - William Rempp
+ - Elias Neves
  - Victor Rizzo
  - Douglas Hermann
  - Luiz Ihara
