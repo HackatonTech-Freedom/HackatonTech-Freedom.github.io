@@ -1,4 +1,3 @@
-# Freedom
 ## Sobre o projeto
 
 Projeto designado para o evento HackatonTech XP.
