@@ -16,7 +16,7 @@ Time de NOC sofre com avalanche de alarmes no zabbix.
 
 ### Objetivo
 
-Sistema Freedom que fica analisando o zabbix de tempos em tempos. Com a ajuda de machine learning, começa a mandar ações para o N1 realizar.
+Sistema Freedom que fica analisando o zabbix de tempos em tempos. Com a ajuda de machine learning, sistema envia ações para o N1 realizar.
 
 #### Criatividade e originalidade
 
