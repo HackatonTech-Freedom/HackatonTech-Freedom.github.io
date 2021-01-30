@@ -19,8 +19,7 @@ Freedom ficará analisando o zabbix de tempos em tempos. Ao receber uma avalanch
  - Douglas Hermann
  - Luiz Ihara
 
-![Guilherme Oliveira](/assets/people/GuilhermeOliveira.png)
-<img src="/assets/people/GuilhermeOliveira.png" width="100" height="100"/> <img src="/assets/people/WilliamRempp.png" width="100" height="100"/> <img src="/assets/people/EliasNeves.png" width="100" height="100"/> <img src="/assets/people/VictorRizzo.png" width="100" height="100"/> <img src="/assets/people/DouglasHermann.png" width="100" height="100"/> <img src="/assets/people/LuizIhara.png.png" width="100" height="100"/> 
+<img src="/assets/people/GuilhermeOliveira.png" width="100" height="100"/> <img src="/assets/people/WilliamRempp.png" width="100" height="100"/> <img src="/assets/people/EliasNeves.png" width="100" height="100"/> <img src="/assets/people/VictorRizzo.png" width="100" height="100"/> <img src="/assets/people/DouglasHermann.png" width="100" height="100"/> <img src="/assets/people/LuizIhara.png" width="100" height="100"/> 
 
 #### Criatividade e originalidade
 Partimos para linguagem de programação que não temos comodidade de uso no dia a dia. Utilizamos as melhores práticas do que já conhecemos de outras linguagens e a do própria **python**. Partimos para o uso de containers porque acreditamos que será para melhor prática em infraestrutura.
