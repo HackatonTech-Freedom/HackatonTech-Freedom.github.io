@@ -23,22 +23,15 @@ Freedom ficará analisando o zabbix de tempos em tempos. Ao receber uma avalanch
 
 <img src="/assets/people/VictorRizzo.png" width="100" height="100"/> <img src="/assets/people/DouglasHermann.png" width="100" height="100"/> <img src="/assets/people/LuizIhara.png" width="100" height="100"/> 
 
-#### Criatividade e originalidade
-Partimos para linguagem de programação que não temos comodidade de uso no dia a dia. Utilizamos as melhores práticas do que já conhecemos de outras linguagens e a do própria **python**. Partimos para o uso de containers porque acreditamos que será para melhor prática em infraestrutura.
+### Pitch
 
+<video tabindex="-1" class="video-stream html5-main-video" controlslist="nodownload" style="width: 853px; height: 480px; left: 172px; top: 0px;" src="blob:https://www.youtube.com/1ae289e1-07ac-4ecd-ba2f-613c42108a3b"></video>
 
-#### Aplicabilidade
-Projeto possui **machine learning**, então ele mesmo irá aprender com o comportamento dos chamados e alarmes. Projeto foi moldado para a própria inteligencia da maquina aprender e solucionar os problemas.
+### Demo
 
-#### Qualidade do protótipo
-Incluimos **Testes unitários** no projeto e foi utilizado mocks para realizar teste de várias entradas de dados, para entendermos tambem o comportamento do machine learning.
+<video tabindex="-1" class="video-stream html5-main-video" controlslist="nodownload" style="width: 853px; height: 480px; left: 172px; top: 0px;" src="blob:https://www.youtube.com/watch?v=7d_PbyUEws8"></video>
 
-#### Tecnologia
-Optamos por utilizar **Python** por ter uma manutenção mais simples e a construção mais agil do projeto. Alem do foco de criar o projeto com infraestrutura em **kubernetes** porque teremos mais facilidade em escalabilidade.
+### Apresentação
 
-#### Elemento Futuro
-Com a ajuda do **machine learning**, projeto fará sua próprias ações para a solução das massivas e é possivel incluir novas features como comportamentos de alarmes que ocorrem em horários específicos.
-
-
-#### Prontidão
-Foi projeto para utilização nas principais **cloud**. É possivel consumir o banco de dados que o machine learning usa para geração de **reports**.
+### Link do repositorio
+https://github.com/HackatonTech-Freedom/Freedom
