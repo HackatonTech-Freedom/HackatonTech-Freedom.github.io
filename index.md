@@ -2,22 +2,14 @@
 
 Projeto designado para o evento HackatonTech XP.
 
-### Dificuldade
-
-Time de NOC sofre com massiva de alarmes no zabbix. 
-
-### Objetivo
-
-Freedom ficará analisando o zabbix de tempos em tempos. Ao receber uma avalanche de alarmes, Freedom pega todos os alarmes, analisa os relacionados e vincula para um unico só. Com a ajuda de machine learning, sistema envia ações para o N1 realizar. 
-
 ### Team Members
 
- - Guilherme Oliveira
- - Willian Rempp 
- - Elias Neves
- - Victor Rizzo
- - Douglas Hermann
- - Luiz Ihara
+ - Guilherme Oliveira - **Tech Leader**
+ - Willian Rempp - **Desenvolvedor**
+ - Elias Neves - **Desenvolvedor**
+ - Victor Rizzo - **Infraestrutura**
+ - Douglas Hermann - **Infraestrutura**
+ - Luiz Ihara - **QA**
 
 <img src="/assets/people/GuilhermeOliveira.png" width="100" height="100"/> <img src="/assets/people/WilliamRempp.png" width="100" height="100"/> <img src="/assets/people/EliasNeves.png" width="100" height="100"/> 
 
