@@ -23,13 +23,14 @@ Freedom ficará analisando o zabbix de tempos em tempos. Ao receber uma avalanch
 
 <img src="/assets/people/VictorRizzo.png" width="100" height="100"/> <img src="/assets/people/DouglasHermann.png" width="100" height="100"/> <img src="/assets/people/LuizIhara.png" width="100" height="100"/> 
 
-### Pitch
+### Pitch - 2 minutos
 
-<video tabindex="-1" class="video-stream html5-main-video" controlslist="nodownload" style="width: 853px; height: 480px; left: 172px; top: 0px;" src="blob:https://www.youtube.com/1ae289e1-07ac-4ecd-ba2f-613c42108a3b"></video>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YCvcl_mO9as)
 
-### Demo
+### Demo - 1 minutos
 
-<video tabindex="-1" class="video-stream html5-main-video" controlslist="nodownload" style="width: 853px; height: 480px; left: 172px; top: 0px;" src="blob:https://www.youtube.com/watch?v=7d_PbyUEws8"></video>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=7d_PbyUEws8)
+
 
 ### Apresentação
 
