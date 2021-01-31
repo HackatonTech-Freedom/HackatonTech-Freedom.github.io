@@ -25,7 +25,7 @@ Projeto designado para o evento HackatonTech XP.
 
 
 ### Apresentação
-Download do Arquivo em [.PPTX](/assets/files/ApresentacaoFreedom.pptx) ou [PDF](/assets/files/ApresentacaoFreedom.pdf)
+Download do Arquivo em [.PPTX](/assets/files/ApresentacaoFreedom.pptx) ou [.PDF](/assets/files/ApresentacaoFreedom.pdf)
 
 ### Link do repositorio
 [https://github.com/HackatonTech-Freedom/Freedom](https://github.com/HackatonTech-Freedom/Freedom)
