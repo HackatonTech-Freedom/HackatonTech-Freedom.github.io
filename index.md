@@ -25,14 +25,15 @@ Freedom ficará analisando o zabbix de tempos em tempos. Ao receber uma avalanch
 
 ### Pitch - 2 minutos
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YCvcl_mO9as)
+[![Video do Pitch](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YCvcl_mO9as)
 
 ### Demo - 1 minutos
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=7d_PbyUEws8)
+[![Video do Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=7d_PbyUEws8)
 
 
 ### Apresentação
+[Download do Arquivo](/assets/files/ProgramaEficiência_Comitê_20210115.pptx)
 
 ### Link do repositorio
-https://github.com/HackatonTech-Freedom/Freedom
+[https://github.com/HackatonTech-Freedom/Freedom](https://github.com/HackatonTech-Freedom/Freedom)
