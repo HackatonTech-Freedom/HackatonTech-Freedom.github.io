@@ -13,7 +13,7 @@ Freedom ficará analisando o zabbix de tempos em tempos. Ao receber uma avalanch
 ### Team Members
 
  - Guilherme Oliveira
- - William Rempp 
+ - Willian Rempp 
  - Elias Neves
  - Victor Rizzo
  - Douglas Hermann
