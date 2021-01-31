@@ -17,11 +17,11 @@ Projeto designado para o evento HackatonTech XP.
 
 ### Pitch - 2 minutos
 
-[![Video do Pitch](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YCvcl_mO9as)
+[![Video do Pitch](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=3vxmsVtAFkQ)
 
-### Demo - 1 minutos
+### Demo - 1 minuto
 
-[![Video do Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=7d_PbyUEws8)
+[![Video do Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=iFoWPst-634)
 
 
 ### Apresentação
