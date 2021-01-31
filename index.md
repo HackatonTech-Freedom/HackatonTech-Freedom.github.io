@@ -6,9 +6,9 @@ Projeto designado para o evento HackatonTech XP.
 
  - Guilherme Oliveira - **Tech Leader**
  - Willian Rempp - **Desenvolvedor**
- - Elias Neves - **Desenvolvedor**
+ - Elias Neves - **Infraestrutura**
  - Victor Rizzo - **Infraestrutura**
- - Douglas Hermann - **Infraestrutura**
+ - Douglas Hermann - **Desenvolvedor**
  - Luiz Ihara - **QA**
 
 <img src="/assets/people/GuilhermeOliveira.png" width="100" height="100"/> <img src="/assets/people/WilliamRempp.png" width="100" height="100"/> <img src="/assets/people/EliasNeves.png" width="100" height="100"/> 
